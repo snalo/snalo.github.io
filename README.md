@@ -17,7 +17,7 @@ Now, as I continue my doctoral studies, I am driven by the goal of bridging the 
 
 ---
 
-# 🎓 Education
+# Education
 
 - **Ph.D. in Electrical Engineering**, University of Kentucky, Lexington, KY (2022 – Present)  
 - **M.Sc. in Electrical/Electronic Engineering**, University of Ibadan, Nigeria (2019)  
@@ -52,9 +52,11 @@ Now, as I continue my doctoral studies, I am driven by the goal of bridging the 
 
 **Service Delivery Project Manager**  
 *Huawei Technologies, Nigeria | 2017 – 2022*  
-- Managed service operations, technical issue resolution
-Other positions on my [LinkedIn](https://www.linkedin.com/in/seunalo)
+* Managed service operations, technical issue resolution
+*Other positions on my [LinkedIn](https://www.linkedin.com/in/seunalo)*
+
 ---
+
 # 🛠️ Projects
 ## **Scaling Analog Photonic Accelerators for Integer GEMM Kernels**
 
