@@ -104,4 +104,4 @@ in *Proc. 25th Int. Symp. Quality Electronic Design (ISQED)*, Santa Clara, CA, U
 <object data="/assets/resume/Seun_Alo_Resume.pdf" type="application/pdf" width="100%" height="600px">
 </object>
 
-[Click here to download](https://seunalo.github.io/assets/resume/Seun_Alo_Resume.pdf)
+[Click here to download](https://snalo.github.io/assets/resume/Seun_Alo_Resume.pdf)
