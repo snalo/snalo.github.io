@@ -105,7 +105,7 @@ in *Proc. 25th Int. Symp. Quality Electronic Design (ISQED)*, Santa Clara, CA, U
 
 <h2 align="center">
   <a href="https://snalo.github.io/assets/resume/Seun_ALO_Resume.pdf" download style="text-decoration: none;">
-    📄 <span style="padding: 10px 20px; background-color: #007acc; color: white; border-radius: 8px; font-size: 20px; font-weight: bold;">
+    <span style="padding: 10px 20px; background-color: #007acc; color: white; border-radius: 8px; font-size: 20px; font-weight: bold;">
       Download Resume
     </span>
   </a>
