@@ -6,8 +6,9 @@
 📞 +1 (859) 894-0498  
 🔗 [LinkedIn](https://www.linkedin.com/in/seunalo) | [GitHub](https://github.com/snalo) | [ResearchGate](https://www.researchgate.net/profile/Seun-Alo) | [Google Scholar](https://scholar.google.com/citations?user=G3mc-ksAAAAJ&hl=en)  
 
-![Input provided to BCE Algorithm](/assets/profile/profile_pic_1.jpg)
-
+<p align="center">
+  <img src="assets/profile/profile_pic_1.jpg" alt="Seun Alo" width="200" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+</p>
 
 My name is **Seun Alo**, and I am a Ph.D. candidate in Electrical Engineering at the **University of Kentucky**, specializing in **computer architecture and hardware acceleration**. I am currently conducting my research at the [**Unconventional Computing Architectures and Technologies (UCAT)**](https://www.engr.uky.edu/research-faculty/research-centers-labs/ucat) laboratory, where I focus on designing **scalable and energy-efficient hardware accelerators** for **Geometric Deep Learning** applications. My work explores innovative dataflows and emerging technologies such as **photonic computing** to enable high-performance, low-power machine learning architectures. In April 2023, I successfully passed my Ph.D. oral qualifying examination, presenting a proposal on **“Design of an Efficient, Scalable, and Flexible Tensor Processing Architecture with Photonic Integrated Circuits.”**
 
