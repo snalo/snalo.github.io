@@ -25,6 +25,15 @@ Now, as I continue my doctoral studies, I am driven by the goal of bridging the 
 
 ---
 
+# Professional Experience
+
+**Service Delivery Project Manager**  
+*Huawei Technologies, Nigeria | 2017 – 2022*  
+- Managed service operations, technical issue resolution
+- *Other positions on my [LinkedIn](https://www.linkedin.com/in/seunalo)*
+
+---
+
 # Research Experience
 
 **Graduate Researcher, UCAT Lab**  
@@ -38,7 +47,7 @@ Now, as I continue my doctoral studies, I am driven by the goal of bridging the 
 - Developed Content-Based Image Retrieval Systems using Color, Edge, and Texture features.
 
 ---
-# Research Interests
+## Research Interests
 
 * Computer Vision
 * Artificial Intelligence (Machine/Deep Learning) **
@@ -48,29 +57,20 @@ Now, as I continue my doctoral studies, I am driven by the goal of bridging the 
 
 ---
 
-# Professional Experience
-
-**Service Delivery Project Manager**  
-*Huawei Technologies, Nigeria | 2017 – 2022*  
-* Managed service operations, technical issue resolution
-*Other positions on my [LinkedIn](https://www.linkedin.com/in/seunalo)*
-
----
-
-# 🛠️ Projects
-## **Scaling Analog Photonic Accelerators for Integer GEMM Kernels**
+## Projects
+### **Scaling Analog Photonic Accelerators for Integer GEMM Kernels**
 
 This project explores the design and optimization of analog photonic accelerators targeted at byte-sized (8-bit) integer matrix multiplication operations — a foundational component in many deep learning applications. The work focuses on achieving high-speed, low-energy multiply-accumulate (MAC) operations by integrating photonic computing elements. Challenges addressed include scaling the photonic hardware while maintaining signal integrity and low power consumption.
 
 ![The SPOGA Architecture](/assets/publications/spoga_architecture.png "The SPOGA Architecture")
 
 ---
-## **GLCM-Based Image Texture Analysis**
+### **GLCM-Based Image Texture Analysis**
 
 Implemented a content-based image retrieval system using second-order statistical features derived from the Grey Level Co-occurrence Matrix (GLCM). The system evaluates texture information for image classification and retrieval tasks. It improves upon traditional CBIR techniques by leveraging GLCM parameters like contrast, correlation, energy, and homogeneity.
 
 ---
-### 📚 Publications
+## Publications
 
 1. S. Afifi, O. A. Alo, I. Thakkar, and S. Pasricha,  
 **"ASTRA: A Stochastic Transformer Neural Network Accelerator with Silicon Photonics,"**  
@@ -103,7 +103,7 @@ in *Proc. 25th Int. Symp. Quality Electronic Design (ISQED)*, Santa Clara, CA, U
 
 ---
 
-## 📄 Resume
+# Resume
 
 <object data="/assets/resume/Seun_Alo_Resume.pdf" type="application/pdf" width="100%" height="600px">
 </object>
