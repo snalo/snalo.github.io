@@ -72,40 +72,41 @@ Implemented a content-based image retrieval system using second-order statistica
 ---
 ## Publications
 
-1. S. Afifi, O. A. Alo, I. Thakkar, and S. Pasricha,  
+1. S. Afifi, **O. A. Alo**, I. Thakkar, and S. Pasricha,  
 **"ASTRA: A Stochastic Transformer Neural Network Accelerator with Silicon Photonics,"**  
 *In Progress*
 
-2. O. A. Alo, S. S. Vatsavai, and I. Thakkar,  
+2. **O. A. Alo**, S. S. Vatsavai, and I. Thakkar,  
 **"Scaling Analog Photonic Accelerators for Byte-Size, Integer General Matrix Multiply (GEMM) Kernels,"**  
 in *Proc. IEEE Computer Society Annual Symposium on VLSI (ISVLSI)*, Knoxville, TN, USA, Jul. 2024, pp. 409–414.  
 [https://doi.org/10.1109/ISVLSI61997.2024.00080](https://doi.org/10.1109/ISVLSI61997.2024.00080)
 
-3. V. S. P. Karempudi, S. S. Vatsavai, I. Thakkar, O. A. Alo, J. T. Hastings, and J. S. Woods,  
+3. V. S. P. Karempudi, S. S. Vatsavai, I. Thakkar, **O. A. Alo**, J. T. Hastings, and J. S. Woods,  
 **"A Low-Dissipation and Scalable GEMM Accelerator with Silicon Nitride Photonics,"**  
 *arXiv preprint*, arXiv:2402.11047, Feb. 2024.  
 [https://arxiv.org/abs/2402.11047](https://arxiv.org/abs/2402.11047)
 
-4. S. S. Vatsavai, V. S. P. Karempudi, O. A. Alo, and I. Thakkar,  
+4. S. S. Vatsavai, V. S. P. Karempudi, **O. A. Alo**, and I. Thakkar,  
 **"A Comparative Analysis of Microrings Based Incoherent Photonic GEMM Accelerators,"**  
 in *Proc. 25th Int. Symp. Quality Electronic Design (ISQED)*, Santa Clara, CA, USA, Apr. 2024, pp. 1–8.  
 [https://doi.org/10.48550/arXiv.2402.03149](https://doi.org/10.48550/arXiv.2402.03149)
 
-5. O. A. Alo and A. R. Zubair,  
+5. **O. A. Alo** and A. R. Zubair,  
 **"Grey Level Co-occurrence Matrix (GLCM) Based Second-Order Statistics for Image Texture Analysis,"**  
 *Int. J. Comput. Appl.*, vol. 93, no. 8, pp. 64–73, 2019.  
 [https://doi.org/10.48550/arXiv.2403.04038](https://doi.org/10.48550/arXiv.2403.04038)
 
-6. A. R. Zubair and O. A. Alo,  
+6. **O. A. Alo** and A. R. Zubair,  
 **"Content-based Image Retrieval System Using Second-Order Statistics,"**  
 *Int. J. Comput. Appl.*, vol. 176, no. 36, pp. 12–20, Jul. 2020.  
 [https://doi.org/10.5120/ijca2020920475](https://doi.org/10.5120/ijca2020920475)
 
 ---
 
-# Resume
-
-<object data="/assets/resume/Seun_Alo_Resume.pdf" type="application/pdf" width="100%" height="600px">
-</object>
-
-[Click here to download](https://snalo.github.io/assets/resume/Seun_ALO_Resume.pdf)
+<h2 align="center">
+  <a href="https://snalo.github.io/assets/resume/Seun_ALO_Resume.pdf" download style="text-decoration: none;">
+    📄 <span style="padding: 10px 20px; background-color: #007acc; color: white; border-radius: 8px; font-size: 20px; font-weight: bold;">
+      Download Resume
+    </span>
+  </a>
+</h2>
