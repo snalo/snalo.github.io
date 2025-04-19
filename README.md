@@ -20,8 +20,8 @@ Now, as I continue my doctoral studies, I am driven by the goal of bridging the 
 # Education
 
 - **Ph.D. in Electrical Engineering**, University of Kentucky, Lexington, KY (2022 – Present)  
-- **M.Sc. in Electrical/Electronic Engineering**, University of Ibadan, Nigeria (2019)  
-- **B.Eng. in Electrical/Electronic Engineering**, Federal University of Akure, Nigeria (2014)
+- **M.Sc. in Electrical/Electronic Engineering**, University of Ibadan, Nigeria
+- **B.Eng. in Electrical/Electronic Engineering**, Federal University of Akure, Nigeria
 
 ---
 
