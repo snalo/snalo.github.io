@@ -58,7 +58,7 @@ Now, as I continue my doctoral studies, I am driven by the goal of bridging the 
 ---
 
 ## Projects
-### **Scaling Analog Photonic Accelerators for Integer GEMM Kernels**
+### **Current: Scaling Analog Photonic Accelerators for Integer GEMM Kernels**
 
 This project explores the design and optimization of analog photonic accelerators targeted at byte-sized (8-bit) integer matrix multiplication operations — a foundational component in many deep learning applications. The work focuses on achieving high-speed, low-energy multiply-accumulate (MAC) operations by integrating photonic computing elements. Challenges addressed include scaling the photonic hardware while maintaining signal integrity and low power consumption.
 
