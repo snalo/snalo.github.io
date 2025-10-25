@@ -11,12 +11,10 @@
 
 My name is **Seun Alo**, and I am a Ph.D. candidate in Electrical Engineering at the **University of Kentucky**, specializing in **computer architecture and hardware acceleration**. I am currently conducting my research at the [**Unconventional Computing Architectures and Technologies (UCAT)**](https://www.engr.uky.edu/research-faculty/research-centers-labs/ucat) laboratory, where I focus on designing **scalable and energy-efficient hardware accelerators** for **Geometric Deep Learning** applications. My work explores innovative dataflows and emerging technologies such as **photonic computing** to enable high-performance, low-power machine learning architectures. In April 2023, I successfully passed my Ph.D. oral qualifying examination, presenting a proposal on **“Design of an Efficient, Scalable, and Flexible Tensor Processing Architecture with Photonic Integrated Circuits.”**
 
-Prior to starting my Ph.D., I earned a **Master’s degree in Electrical and Electronic Engineering** from the **University of Ibadan**, Nigeria in 2019, and a **Bachelor’s degree** in the same field from **Federal University of Akure** in 2014. Alongside my academic journey, I gained industry experience working in different engineering positions and finally as a **Service Delivery Project Manager** at **Huawei Technologies Nigeria** from 2017 to 2022, where I led technical delivery operations and stakeholder coordination in large-scale telecommunications projects, before heading back to Academia for a short career break.
+Prior to my doctoral research, I earned a **Master’s degree in Electrical and Electronic Engineering** from the **University of Ibadan**, Nigeria, and a **Bachelor’s degree** in the same field from **Federal University of Akure**. Alongside my academic journey, I gained industry experience working in different engineering positions and finally at Huawei Technologies, where I managed complex technical projects across telecommunications networks and data centers. My experience with **interconnects and high-speed communication systems** sparked a curiosity about how photonic principles could be applied to **optical interconnects and within integrated circuits (PICs)**. That curiosity evolved into **my current research on silicon photonics and unconventional computing architectures, bridging optical communication and on-chip computation**
 
-Now, as I continue my doctoral studies, I am driven by the goal of bridging the gap between next-generation computing architectures and real-world machine learning applications. My mission is to develop intelligent, efficient, and adaptable systems that meet the demands of tomorrow’s computing challenges.
-
+I enjoy solving challenging system-level problems and working at the intersection of hardware design, machine learning, and emerging technologies.
 ---
-
 # Education
 
 - **Ph.D. in Electrical Engineering**, University of Kentucky, Lexington, KY (2022 – Present)  
