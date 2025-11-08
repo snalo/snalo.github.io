@@ -1,4 +1,4 @@
-# Seun Alo
+# Oluwaseun Alo
 ---
 
 🔗 [LinkedIn](https://www.linkedin.com/in/seunalo) | [GitHub](https://github.com/snalo) | [ResearchGate](https://www.researchgate.net/profile/Seun-Alo) | [Google Scholar](https://scholar.google.com/citations?user=G3mc-ksAAAAJ&hl=en)
