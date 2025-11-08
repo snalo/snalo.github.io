@@ -15,7 +15,7 @@ Before my Ph.D., I worked at **Huawei Technologies Nigeria Co. Ltd**, where I le
 
 ---
 
-## 🧠 Education
+## Education
 
 - **Ph.D. in Electrical Engineering**, *University of Kentucky*, Lexington, KY *(Aug 2022 – Present)*  
   *Dissertation (in progress): Design of an Efficient, Scalable, and Flexible Tensor Processing Architecture with Photonic Integrated Circuits*  
@@ -24,7 +24,7 @@ Before my Ph.D., I worked at **Huawei Technologies Nigeria Co. Ltd**, where I le
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Graduate Researcher – UCAT Lab, University of Kentucky**  
 *Aug 2022 – Present*  
@@ -48,7 +48,7 @@ Before my Ph.D., I worked at **Huawei Technologies Nigeria Co. Ltd**, where I le
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Hardware Design and Acceleration  
 - Energy-Efficient and Scalable Architectures  
@@ -57,7 +57,7 @@ Before my Ph.D., I worked at **Huawei Technologies Nigeria Co. Ltd**, where I le
 
 ---
 
-## 🧩 Selected Projects
+## Selected Projects
 
 ### **Ferromagnetic Resonance (FMR) Characterization (Ongoing)**
 Conducting FMR-based material characterization to model magnetic damping, anisotropy, and resonance properties in thin-film heterostructures. The insights guide hybrid **spintronic-photonic computing** designs and device modeling for next-generation accelerators.
@@ -73,7 +73,7 @@ Contributed to the design and simulation of **stochastic transformer-based accel
 
 ---
 
-## 📚 Selected Publications
+## Selected Publications
 
 1. **I. Thakkar, S. S. Vatsavai, V. S. P. Karempudi, and O. A. Alo.**  
    *Scaling Up the Sustainability of Photonic Tensor Cores with Device-Circuit-Signaling Co-Design*, **IEEE ICCD 2025**, Dallas, TX, USA.  
@@ -94,7 +94,7 @@ Contributed to the design and simulation of **stochastic transformer-based accel
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Hardware & Design Tools:** Cadence, Lumerical, MATLAB, VLSI Design, EDA Tools  
 **Programming:** Python, C++, Git, Linux, SystemVerilog (basic)  
