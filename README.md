@@ -1,111 +1,111 @@
 # Seun Alo
 ---
 
-
-
-🔗 [LinkedIn](https://www.linkedin.com/in/seunalo) | [GitHub](https://github.com/snalo) | [ResearchGate](https://www.researchgate.net/profile/Seun-Alo) | [Google Scholar](https://scholar.google.com/citations?user=G3mc-ksAAAAJ&hl=en)  
+🔗 [LinkedIn](https://www.linkedin.com/in/seunalo) | [GitHub](https://github.com/snalo) | [ResearchGate](https://www.researchgate.net/profile/Seun-Alo) | [Google Scholar](https://scholar.google.com/citations?user=G3mc-ksAAAAJ&hl=en)
 
 <p align="center">
-  <img src="assets/profile/profile_pic_1.jpg" alt="Seun Alo" width="200" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+  <img src="assets/profile/profile_pic_1.jpg" alt="Oluwaseun Alo" width="200" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
 </p>
 
-My name is **Seun Alo**, and I am a Ph.D. candidate in Electrical Engineering at the **University of Kentucky**, specializing in **computer architecture and hardware acceleration**. I am currently conducting my research at the [**Unconventional Computing Architectures and Technologies (UCAT)**](https://www.engr.uky.edu/research-faculty/research-centers-labs/ucat) laboratory, where I focus on designing **scalable and energy-efficient hardware accelerators** for **Geometric Deep Learning** applications. My work explores innovative dataflows and emerging technologies such as **photonic computing** to enable high-performance, low-power machine learning architectures. In April 2023, I successfully passed my Ph.D. oral qualifying examination, presenting a proposal on **“Design of an Efficient, Scalable, and Flexible Tensor Processing Architecture with Photonic Integrated Circuits.”**
+I am **Oluwaseun (Seun) Alo**, a **Ph.D. candidate in Electrical Engineering** at the **University of Kentucky**, conducting research at the [**Unconventional Computing Architectures and Technologies (UCAT)**](https://www.engr.uky.edu/research-faculty/research-centers-labs/ucat) Laboratory. My work lies at the intersection of **hardware acceleration, photonic computing, and emerging computing architectures**.
 
-Prior to my doctoral research, I earned a **Master’s degree in Electrical and Electronic Engineering** from the **University of Ibadan**, Nigeria, and a **Bachelor’s degree** in the same field from **Federal University of Akure**. Alongside my academic journey, I gained industry experience working in different engineering positions and finally at Huawei Technologies, where I managed complex technical projects across telecommunications networks and data centers. My experience with **interconnects and high-speed communication systems** sparked a curiosity about how photonic principles could be applied to **optical interconnects and within integrated circuits (PICs)**. That curiosity evolved into **my current research on silicon photonics and unconventional computing architectures, bridging optical communication and on-chip computation**. 
+Currently, I am designing and evaluating **photonic-based hardware accelerators** for *geometric and deep learning applications*, developing **energy-efficient tensor processing architectures**, and conducting **Ferromagnetic Resonance (FMR)** experiments for **spintronic material characterization** toward hybrid **photonic–magnetic computing** systems. My research integrates device-level modeling, dataflow optimization, and system co-design to push the limits of energy-efficient AI hardware.
 
-I enjoy solving challenging system-level problems and working at the intersection of hardware design, machine learning, and emerging technologies.
-
----
-# Education
-
-- **Ph.D. in Electrical Engineering**, University of Kentucky, Lexington, KY (2022 – Present)  
-- **M.Sc. in Electrical/Electronic Engineering**, University of Ibadan, Nigeria
-- **B.Eng. in Electrical/Electronic Engineering**, Federal University of Akure, Nigeria
+Before my Ph.D., I worked at **Huawei Technologies Nigeria Co. Ltd**, where I led multi-vendor **network infrastructure and system integration projects**, focusing on hardware reliability, signal optimization, and scalable communication solutions. My professional and research experiences bridge **hardware design, optical interconnects, and computing systems**, motivating my pursuit of next-generation **photonic and neuromorphic accelerators**.
 
 ---
 
-# Professional Experience
+## 🧠 Education
 
-**Service Delivery Project Manager**  
-*Huawei Technologies, Nigeria | 2017 – 2022*  
-- Managed service operations, technical issue resolution
-- *Other positions on my [LinkedIn](https://www.linkedin.com/in/seunalo)*
-
----
-
-# Research Experience
-
-**Graduate Researcher, UCAT Lab**  
-*University of Kentucky | 2022 – Present*  
-- Working on hardware accelerators for Geometric Deep Learning.
-- Passed Ph.D. qualifiers: “Design of an Efficient, Scalable, and Flexible Tensor Processing Architecture with Photonic Integrated Circuits” (April 2023).
-- Currently working on publications on GEMM Accelerators for Neural Networks.
-
-**Research Assistant**  
-*University of Ibadan | 2016 – 2019*  
-- Developed Content-Based Image Retrieval Systems using Color, Edge, and Texture features.
-
----
-## Research Interests
-
-* Computer Vision
-* Artificial Intelligence (Machine/Deep Learning) **
-* Computer Architecture and Embedded systems **
-* VLSI Design and Technology
-* Signal/Image Processing and Communication
+- **Ph.D. in Electrical Engineering**, *University of Kentucky*, Lexington, KY *(Aug 2022 – Present)*  
+  *Dissertation (in progress): Design of an Efficient, Scalable, and Flexible Tensor Processing Architecture with Photonic Integrated Circuits*  
+- **M.Sc. in Electrical/Electronic Engineering**, *University of Ibadan*, Nigeria *(2019)*  
+- **B.Eng. in Electrical/Electronic Engineering**, *Federal University of Technology, Akure*, Nigeria  
 
 ---
 
-## Projects
-### **Current: Scaling Analog Photonic Accelerators for Integer GEMM Kernels**
+## 💼 Professional Experience
 
-This project explores the design and optimization of analog photonic accelerators targeted at byte-sized (8-bit) integer matrix multiplication operations — a foundational component in many deep learning applications. The work focuses on achieving high-speed, low-energy multiply-accumulate (MAC) operations by integrating photonic computing elements. Challenges addressed include scaling the photonic hardware while maintaining signal integrity and low power consumption.
+### **Graduate Researcher – UCAT Lab, University of Kentucky**  
+*Aug 2022 – Present*  
+- Design and evaluate **photonic-based hardware accelerators** for geometric and deep learning applications.  
+- Develop **tensor processing architectures** with optimized dataflows for high-throughput, low-power computation.  
+- Conduct **Ferromagnetic Resonance (FMR)** experiments to analyze damping and anisotropy in thin-film materials for **spintronic device modeling**.  
+- Model and simulate **photonic integrated circuits (PICs)** for optical interconnect optimization using *Lumerical* and *Cadence*.  
+- Publish in **IEEE** and **ACM** venues on **GEMM accelerators**, **photonic tensor cores**, and **neuromorphic computing systems**.  
 
-![The SPOGA Architecture](/assets/publications/spoga_architecture.png "The SPOGA Architecture")
+### **Project Manager – Huawei Technologies Nig. Co. Ltd, Lagos, Nigeria**  
+*Sep 2017 – Aug 2022*  
+- Managed large-scale **network infrastructure and system integration projects**, emphasizing hardware reliability and performance optimization.  
+- Collaborated with cross-functional engineering teams to evaluate hardware modules, resolve design bottlenecks, and improve throughput and latency.  
+- Delivered **energy-efficient telecom solutions** leveraging embedded and optical communication hardware systems.  
+
+### **Research Assistant – University of Ibadan, Nigeria**  
+*Aug 2016 – Mar 2019*  
+- Conducted **computational experiments in signal and image analysis** using feature-extraction and pattern-recognition algorithms.  
+- Integrated **MATLAB** and **Python** workflows for simulation, modeling, and algorithmic performance evaluation.  
+- Co-authored publications on **statistical texture analysis** and **content-based image retrieval systems**.  
 
 ---
-### **GLCM-Based Image Texture Analysis**
 
-Implemented a content-based image retrieval system using second-order statistical features derived from the Grey Level Co-occurrence Matrix (GLCM). The system evaluates texture information for image classification and retrieval tasks. It improves upon traditional CBIR techniques by leveraging GLCM parameters like contrast, correlation, energy, and homogeneity.
+## 🔬 Research Interests
+
+- Hardware Design and Acceleration  
+- Energy-Efficient and Scalable Architectures  
+- Photonic and Neuromorphic Computing  
+- Optical and Photonic Interconnect Systems  
 
 ---
-## Publications
 
-1. S. Afifi, **O. A. Alo**, I. Thakkar, and S. Pasricha,  
-**"ASTRA: A Stochastic Transformer Neural Network Accelerator with Silicon Photonics,"**  
-*In Progress*
+## 🧩 Selected Projects
 
-2. **O. A. Alo**, S. S. Vatsavai, and I. Thakkar,  
-**"Scaling Analog Photonic Accelerators for Byte-Size, Integer General Matrix Multiply (GEMM) Kernels,"**  
-in *Proc. IEEE Computer Society Annual Symposium on VLSI (ISVLSI)*, Knoxville, TN, USA, Jul. 2024, pp. 409–414.  
-[https://doi.org/10.1109/ISVLSI61997.2024.00080](https://doi.org/10.1109/ISVLSI61997.2024.00080)
+### **Ferromagnetic Resonance (FMR) Characterization (Ongoing)**
+Conducting FMR-based material characterization to model magnetic damping, anisotropy, and resonance properties in thin-film heterostructures. The insights guide hybrid **spintronic-photonic computing** designs and device modeling for next-generation accelerators.
 
-3. V. S. P. Karempudi, S. S. Vatsavai, I. Thakkar, **O. A. Alo**, J. T. Hastings, and J. S. Woods,  
-**"A Low-Dissipation and Scalable GEMM Accelerator with Silicon Nitride Photonics,"**  
-*arXiv preprint*, arXiv:2402.11047, Feb. 2024.  
-[https://arxiv.org/abs/2402.11047](https://arxiv.org/abs/2402.11047)
+### **Photonic Tensor Processing Architecture**
+Designed scalable tensor processing cores using **photonic integrated circuits (PICs)** for energy-efficient deep learning workloads. Focused on architecture design, throughput optimization, and dataflow efficiency.
 
-4. S. S. Vatsavai, V. S. P. Karempudi, **O. A. Alo**, and I. Thakkar,  
-**"A Comparative Analysis of Microrings Based Incoherent Photonic GEMM Accelerators,"**  
-in *Proc. 25th Int. Symp. Quality Electronic Design (ISQED)*, Santa Clara, CA, USA, Apr. 2024, pp. 1–8.  
-[https://doi.org/10.48550/arXiv.2402.03149](https://doi.org/10.48550/arXiv.2402.03149)
+### **GEMM Accelerator for Neural Networks (SPOGA)**
+Developed and optimized low-power GEMM accelerator architectures targeting **integer and byte-size matrix multiplication** kernels for ML workloads.
 
-5. **O. A. Alo** and A. R. Zubair,  
-**"Grey Level Co-occurrence Matrix (GLCM) Based Second-Order Statistics for Image Texture Analysis,"**  
-*Int. J. Comput. Appl.*, vol. 93, no. 8, pp. 64–73, 2019.  
-[https://doi.org/10.48550/arXiv.2403.04038](https://doi.org/10.48550/arXiv.2403.04038)
+### **Optical Stochastic Computing Accelerator (ASTRA)**
+Contributed to the design and simulation of **stochastic transformer-based accelerators** using silicon photonics, improving performance and reducing power dissipation for large language model workloads.
 
-6. **O. A. Alo** and A. R. Zubair,  
-**"Content-based Image Retrieval System Using Second-Order Statistics,"**  
-*Int. J. Comput. Appl.*, vol. 176, no. 36, pp. 12–20, Jul. 2020.  
-[https://doi.org/10.5120/ijca2020920475](https://doi.org/10.5120/ijca2020920475)
+---
+
+## 📚 Selected Publications
+
+1. **I. Thakkar, S. S. Vatsavai, V. S. P. Karempudi, and O. A. Alo.**  
+   *Scaling Up the Sustainability of Photonic Tensor Cores with Device-Circuit-Signaling Co-Design*, **IEEE ICCD 2025**, Dallas, TX, USA.  
+
+2. **S. Afifi, O. A. Alo, I. Thakkar, and S. Pasricha.**  
+   *ASTRA: A Stochastic Transformer Neural Network Accelerator with Silicon Photonics*, **ACM Transactions on Embedded Computing Systems**, 2025.  
+
+3. **S. Afifi, O. A. Alo, I. Thakkar, and S. Pasricha.**  
+   *A Light-Speed Large Language Model Accelerator with Optical Stochastic Computing*, **GLSVLSI 2025**, pp. 922–928.  
+
+4. **O. A. Alo, S. S. Vatsavai, and I. Thakkar.**  
+   *Scaling Analog Photonic Accelerators for Byte-Size, Integer GEMM Kernels*, **IEEE ISVLSI 2024**, Knoxville, TN, USA.  
+   [https://doi.org/10.1109/ISVLSI61997.2024.00080](https://doi.org/10.1109/ISVLSI61997.2024.00080)
+
+5. **O. A. Alo** and **A. R. Zubair.**  
+   *Content-Based Image Retrieval System Using Second-Order Statistics*, **IJCA**, 2020.  
+   [https://doi.org/10.5120/ijca2020920475](https://doi.org/10.5120/ijca2020920475)
+
+---
+
+## 🛠️ Technical Skills
+
+**Hardware & Design Tools:** Cadence, Lumerical, MATLAB, VLSI Design, EDA Tools  
+**Programming:** Python, C++, Git, Linux, SystemVerilog (basic)  
+**Machine Learning / Simulation:** PyTorch, TensorFlow  
 
 ---
 
 <h2 align="center">
-  <a href="https://snalo.github.io/assets/Seun_ALO_Resume.pdf" download style="text-decoration: none;">
+  <a href="https://snalo.github.io/assets/Oluwaseun_Alo_Resume.pdf" download style="text-decoration: none;">
     <span style="padding: 10px 20px; background-color: #007acc; color: white; border-radius: 8px; font-size: 20px; font-weight: bold;">
-      Download Resume
+      📄 Download Resume
     </span>
   </a>
 </h2>
