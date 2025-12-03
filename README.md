@@ -101,11 +101,3 @@ Contributed to the design and simulation of **stochastic transformer-based accel
 **Machine Learning / Simulation:** PyTorch, TensorFlow  
 
 ---
-
-<h2 align="center">
-  <a href="https://snalo.github.io/assets/Oluwaseun_Alo_Resume.pdf" download style="text-decoration: none;">
-    <span style="padding: 10px 20px; background-color: #007acc; color: white; border-radius: 8px; font-size: 20px; font-weight: bold;">
-      📄 Download Resume
-    </span>
-  </a>
-</h2>
