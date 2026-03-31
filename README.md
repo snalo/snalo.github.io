@@ -3,6 +3,8 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/seunalo) | [GitHub](https://github.com/snalo) | [ResearchGate](https://www.researchgate.net/profile/Seun-Alo) | [Google Scholar](https://scholar.google.com/citations?user=G3mc-ksAAAAJ&hl=en)
 
+📄 **[Download Resume (PDF)](assets/Oluwaseun_Sean_Alo_Resume.pdf)**
+
 <p align="center">
   <img src="assets/profile/profile_pic_1.jpg" alt="Oluwaseun (Sean) Alo" width="200" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
 </p>
@@ -148,6 +150,10 @@ Conducting FMR-based material characterization of thin-film magnetic heterostruc
 - 🔬 Research and development in emerging computing architectures
 
 **Available:** May 2026 (post-PhD defense) for full-time positions  
+
+<p align="center">
+  📄 <strong><a href="assets/Oluwaseun_Sean_Alo_Resume.pdf">Download Resume (PDF)</a></strong>
+</p>
 
 ---
 
